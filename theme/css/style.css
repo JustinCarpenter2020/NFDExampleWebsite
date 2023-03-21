@@ -376,7 +376,7 @@ ul.dropdown-menu li {
 }
 
 .slider {
-  background: url("../images/bg/bg-7.jpg") no-repeat 0% 30%;
+  background: url("https://images.pexels.com/photos/266403/pexels-photo-266403.jpeg?cs=srgb&dl=pexels-pixabay-266403.jpg&fm=jpg") no-repeat 0% 30%;
   background-size: cover;
   padding: 180px 0px;
 }
@@ -393,7 +393,7 @@ ul.dropdown-menu li {
 }
 
 .bg-2 {
-  background: url("../images/bg/bg-image-2-1.jpg") no-repeat;
+  background: url("https://images.pexels.com/photos/36031/firefighter-fire-portrait-training.jpg?cs=srgb&dl=pexels-pixabay-36031.jpg&fm=jpg") no-repeat;
   background-size: cover;
 }
 
@@ -799,5 +799,21 @@ ul.dropdown-menu li {
   .navbar-nav li {
     padding: 0px;
   }
+}
+.logo{
+  max-width: 100%;
+  height: auto;
+}
+
+.img-gallery{
+  height: 35vh;
+  width: 100%;
+  object-fit: fill;
+}
+
+.map-image{
+  height: 75vh;
+  width: 100vw;
+  object-fit: cover;
 }
 /*# sourceMappingURL=style.css.map */
